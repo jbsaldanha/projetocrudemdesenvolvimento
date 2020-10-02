@@ -1,0 +1,42 @@
+Ferramentas usadas:
+
+	Sublime Text
+	codeigniter 3
+	composer 1.10.13
+	XAMPP 7.4.10
+	MySql 6.3(porque esse que está instalado na empresa)
+	Git 2.28.0 64 bits
+
+Projeto:
+
+Processo Seletivo - Programador PHP
+
+OBS:
+	Publicar o projeto em um repositorio GIT, e nos enviar o endereço.
+	Entregar o que conseguir fazer dentro do prazo.
+
+1. Projeto CRUD para cadastrar dados de Doadores.
+
+a. Informações necessárias para o cadastro:
+ Nome;
+ Email;
+ CPF;
+ Telefone (Pode ter até 2 números de telefones);
+ Data de Nascimento;
+ Data do Cadastro;
+ Intervalo de Doação (Unico; Bimestral; Semestral; Anual);
+Valor da Doação;
+ Forma de Pagamento (Débito e Credito - Criar tabelas para armazenar cada forma de pagamento) ;
+ Endereço Completo
+
+b. A listagem deverá mostrar Nome, Email, CPF e Idade, junto com opções de filtro;
+c. Criar o banco de dados seguindo as regras de normalização;
+
+2. Junto com o teste, enviar também o DUMP do banco de dados.
+
+Critérios técnicos para desenvolvimento do projeto
+- O projeto deve ser escrito em PHP, utilizando banco de dados Mysql.
+- Boas práticas de programação serão avaliadas.
+- Desejavel (não obrigatório) uso de javascript.
+
+Boa sorte!
